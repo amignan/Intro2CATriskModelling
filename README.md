@@ -4,7 +4,7 @@ This repository is a clone of the unlocked section of the online resources site 
 
 Upon the publication of the book, version 1.0 of the codes will be accessible here. Any future minor updates, not necessarily implemented at [www.cambridge.org/Mignan](https://www.cambridge.org/Mignan), will also be found here.
 
-**Citation:** Mignan, A. (2025), Introduction to Catastrophe Risk Modelling. A Physics-based Approach. Cambridge University Press, doi: 10.1017/9781009437370
+**Citation:** Mignan, A. (2025), Introduction to Catastrophe Risk Modelling. A Physics-based Approach. Cambridge University Press, doi: [10.1017/9781009437370](https://www.cambridge.org/highereducation/books/introduction-to-catastrophe-risk-modelling/A3A5B5FB990921422BFEBB07734BF869#overview)
 
 ## Supplementary material: CAT Risk Modelling Sandbox v1.0 (COMING SOON)
 
