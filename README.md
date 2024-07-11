@@ -1,8 +1,8 @@
 # Introduction to Catastrophe Risk Modelling: A Physics-based Approach
 
-This repository is a clone of the unlocked section of the online resources site [www.cambridge.org/Mignan](www.cambridge.org/Mignan) (to be launched in September 2024), associated with the textbook 'Introduction to Catastrophe Risk Modelling: A Physics-based Approach'.
+This repository is a clone of the unlocked section of the online resources site [https://www.cambridge.org/Mignan](www.cambridge.org/Mignan) (to be launched in September 2024), associated with the textbook 'Introduction to Catastrophe Risk Modelling: A Physics-based Approach'.
 
-Upon the publication of the book, version 1.0 of the codes will be accessible here. Any future minor updates, not necessarily implemented at [www.cambridge.org/Mignan](www.cambridge.org/Mignan), will also be found here.
+Upon the publication of the book, version 1.0 of the codes will be accessible here. Any future minor updates, not necessarily implemented at [https://www.cambridge.org/Mignan](www.cambridge.org/Mignan), will also be found here.
 
 **Citation:** Mignan, A. (2025), Introduction to Catastrophe Risk Modelling. A Physics-based Approach. Cambridge University Press, doi: 10.1017/9781009437370
 
@@ -13,7 +13,7 @@ This tutorial acts as a guide to catastrophe (CAT) risk modelling, streamlining 
 <p align="center">
   <img src="figures/fig3_10_sandbox_env_COLOR.jpg" width="800">
 </p>
-<p align="center"><small>Instance of the virtual region generated for the CAT Risk Modelling Sandbox, here illustrating the topography and land use layers (the latter consisting of a water mass, built area, and road network) – Simulation rendered with <a target = '_blank' href = 'www.rayshader.com'>Rayshader</a> (Morgan-Wall, 2023).</small></p>
+<p align="center"><small>Instance of the virtual region generated for the CAT Risk Modelling Sandbox, here illustrating the topography and land use layers (the latter consisting of a water mass, built area, and road network) – Simulation rendered with <a target = '_blank' href = 'https://www.rayshader.com'>Rayshader</a> (Morgan-Wall, 2023).</small></p>
 
 ## CAT Starter Kit v1.0 (COMING SOON)
 
