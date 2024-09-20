@@ -1,8 +1,8 @@
 # Introduction to Catastrophe Risk Modelling: A Physics-based Approach
 
-This repository is a clone of the unlocked section of the [online resources page](https://www.cambridge.org/highereducation/books/introduction-to-catastrophe-risk-modelling/A3A5B5FB990921422BFEBB07734BF869/resources/instructor-resources/96CEE02A01B26976178E856371C5B11F), associated with the textbook '_Introduction to Catastrophe Risk Modelling: A Physics-based Approach_'.
+This repository is a clone of the unlocked section of the [online resources page](https://www.cambridge.org/highereducation/books/introduction-to-catastrophe-risk-modelling/A3A5B5FB990921422BFEBB07734BF869/resources/instructor-resources/96CEE02A01B26976178E856371C5B11F) associated with the textbook '_Introduction to Catastrophe Risk Modelling: A Physics-based Approach_'.
 
-Upon the publication of the book, version 1.0 of the codes will be accessible here. Any future minor updates, not necessarily implemented at [www.cambridge.org/Mignan](https://www.cambridge.org/Mignan), will also be found here.
+The textbook code can be considered version 1.0. Any future minor updates, which may not be implemented on the Cambridge University Press textbook page, will also be available here.
 
 **Citation:** Mignan, A. (2025), Introduction to Catastrophe Risk Modelling. A Physics-based Approach. Cambridge University Press, doi: [10.1017/9781009437370](https://www.cambridge.org/highereducation/books/introduction-to-catastrophe-risk-modelling/A3A5B5FB990921422BFEBB07734BF869#overview)
 
