@@ -12,7 +12,7 @@ The textbook code can be considered version 1.0. Any future minor updates, which
 A basic template to develop a catastrophe (CAT) risk model (here with ad-hoc parameters & models). Available in both R (`CAT_StarterKit.R`) and Python (`CAT_StarterKit.py`).
 
 
-## Supplementary material: CAT Risk Modelling Sandbox v1.0
+## CAT Risk Modelling Sandbox v1.0
 
 This tutorial acts as a guide to catastrophe (CAT) risk modelling, streamlining the intricate processes typically associated with developing a CAT model while retaining a realistic context. This is achieved by implementing various perils in a virtual environment, as represented in the next figure (Mignan, 2025:fig. 3.10):
 
