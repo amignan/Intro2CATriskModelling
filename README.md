@@ -17,7 +17,7 @@ A basic template to develop a catastrophe (CAT) risk model (here with ad-hoc par
 This tutorial acts as a guide to catastrophe (CAT) risk modelling, streamlining the intricate processes typically associated with developing a CAT model while retaining a realistic context. This is achieved by implementing various perils in a virtual environment, as represented in the next figure (Mignan, 2025:fig. 3.10):
 
 <p align="center">
-  <img src="figures/fig3_10_sandbox_env_COLOR.jpg" width="800">
+  <img src="Figures/fig3_10_sandbox_env_COLOR.jpg" width="800">
 </p>
 <p align="center"><small>Instance of the virtual region generated for the CAT Risk Modelling Sandbox, here illustrating the topography and land use layers (the latter consisting of a water mass, built area, and road network) – Simulation rendered with <a target = '_blank' href = 'https://www.rayshader.com'>Rayshader</a> (Morgan-Wall, 2023).</small></p>
 
